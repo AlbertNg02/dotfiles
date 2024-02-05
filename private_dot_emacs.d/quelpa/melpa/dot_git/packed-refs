@@ -1,0 +1,10 @@
+# pack-refs with: peeled fully-peeled sorted 
+1f04d2845a02a96cc6c8b5b5b59e04197134c829 refs/remotes/origin/extexi
+4caa9a03cad40d24484fce27fcfcf75b1d08e814 refs/remotes/origin/faq
+a911c0c2c3ee2a551a82b1d72551a4eba2a964e9 refs/remotes/origin/flandrew-packages
+ff1549b881a946784d6bc2b5f5eb2f02d0626539 refs/remotes/origin/improve-ci
+517c0b7f4dc258a4f7cba19ddc24fa519ad57618 refs/remotes/origin/make-improvements
+6ced110377e97c5bf96fd9726af2ffc1cb4c8fa7 refs/remotes/origin/master
+3420b89ae38748c47f55dece29a544ada36d060b refs/remotes/origin/python-web-app
+fbde43a5ceeddbe94afae49f079af6937e2d922c refs/remotes/origin/snapshot-channel
+2d4686ebcc138bffe4474656e58010969f42b33e refs/remotes/origin/version-regexp
