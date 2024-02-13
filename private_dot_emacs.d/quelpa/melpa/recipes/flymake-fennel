@@ -1,3 +1,0 @@
-(flymake-fennel
- :fetcher sourcehut
- :repo "mgmarlow/flymake-fennel")
