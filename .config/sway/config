@@ -13,6 +13,8 @@ set $left h
 set $down j
 set $up k
 set $right l
+# Your preferred browser
+set $browser firefox
 # Your preferred terminal emulator
 set $term foot
 # Your preferred application launcher
@@ -62,6 +64,9 @@ output * bg /usr/share/backgrounds/sway/Sway_Wallpaper_Blue_1920x1080.png fill
 #
 # Basics:
 #
+
+    # Start a browser
+    bindsym $mod+Shift+f exec $browser
     # Start a terminal
     bindsym $mod+Return exec $term
 
