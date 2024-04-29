@@ -1,0 +1,13 @@
+  Host 10.20.60.89
+    HostName 10.20.60.89
+    Port 5432
+    User albert
+
+Host msi
+    HostName 10.20.34.125
+    User albert
+    IdentityFile ~/.ssh/id_rsa
+Host itx
+    User albert
+    HostName 10.20.60.89
+    IdentityFile ~/.ssh/id_rsa
