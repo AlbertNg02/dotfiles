@@ -18,6 +18,7 @@ return {
   { import = "astrocommunity.file-explorer.oil-nvim" },
   { import = "astrocommunity.markdown-and-latex.peek-nvim" },
   { import = "astrocommunity.markdown-and-latex.glow-nvim" },
+
   -- Git and overview
   { import = "astrocommunity.diagnostics.trouble-nvim" },
   { import = "astrocommunity.remote-development.distant-nvim" },
@@ -25,7 +26,8 @@ return {
   { import = "astrocommunity.git.diffview-nvim" },
   { import = "astrocommunity.git.fugit2-nvim" },
   { import = "astrocommunity.git.neogit" },
-  -- editing-support
+
+  -- Editing-support
   { import = "astrocommunity.editing-support.neogen" },
   { import = "astrocommunity.editing-support.vim-visual-multi" },
   { import = "astrocommunity.editing-support.wildfire-nvim" },
@@ -35,6 +37,14 @@ return {
   { import = "astrocommunity.editing-support.ultimate-autopair-nvim" },
   { import = "astrocommunity.editing-support.nvim-regexplainer" },
   { import = "astrocommunity.register.nvim-neoclip-lua" },
+
+  -- Note taking
+  { import = "astrocommunity.note-taking.obsidian-nvim" },
+
+  -- Execution support
+  { import = "astrocommunity.code-runner.compiler-nvim" },
+  { import = "astrocommunity.code-runner.sniprun" },
+  { import = "astrocommunity.code-runner.overseer-nvim" },
 
   -- Language Packs
   { import = "astrocommunity.pack.vue" },
